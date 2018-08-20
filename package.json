@@ -54,5 +54,6 @@
       "git add"
     ]
   },
-  "name": "simplebar"
+  "name": "simplebar",
+  "version": "1.0.1"
 }
